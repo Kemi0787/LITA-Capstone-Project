@@ -9,7 +9,7 @@ This analyse the performance of each region  based on amount of product sold.
 
 ![Sales Data Pivot Table 2](https://github.com/user-attachments/assets/4a380d61-76e9-4b15-ac12-5926279e7c02)
 
-
+Products sold based on monthly basis for the year 2023 and 2024
 ![Sales Data On Monthly Basis](https://github.com/user-attachments/assets/7ab69a94-1b11-4a58-9bfe-e29c99b2a0cc)
 
 
