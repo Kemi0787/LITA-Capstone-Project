@@ -105,21 +105,21 @@ For Customer Data
   
 Questions.
 
-1.retrieve the total sales for each product category.
+1.Retrieve the total sales for each product category.
 
-2.find the number of sales transactions in each region.
+2.Find the number of sales transactions in each region.
 
-3.find the highest-selling product by total sales value.
+3.Find the highest-selling product by total sales value.
 
-4.calculate total revenue per product.
+4.Calculate total revenue per product.
 
-5.calculate monthly sales totals for the current year.
+5.Calculate monthly sales totals for the current year.
  
-6.find the top 5 customers by total purchase amount.
+6.Find the top 5 customers by total purchase amount.
  
-7.calculate the percentage of total sales contributed by each region.
+7.Calculate the percentage of total sales contributed by each region.
  
-8.identify products with no sales in the last quarter.
+8.Identify products with no sales in the last quarter.
 
    
 The SQL querry that answer the above questions are the following:
@@ -135,7 +135,30 @@ The SQL querry that answer the above questions are the following:
 
 ![Sales Querry 4](https://github.com/user-attachments/assets/9aac8730-ab05-499f-af0c-0ca6674dace6).
 
+
 SQL for Customer data.
+
+Questions
+
+1. Retrieve the total number of customers from each region.
+ 
+2. Find the most popular subscription type by the number of customers.
+  
+3. Find customers who canceled their subscription within 6 months.
+ 
+4. Calculate the average subscription duration for all customers.
+ 
+5. Find customers with subscriptions longer than 12 months.
+ 
+6. Calculate total revenue by subscription type.
+ 
+7. Find the top 3 regions by subscription cancellations.
+ 
+8. Find the total number of active and canceled subscriptions.
+
+
+
+
 
 ![SQLQuerry for Customer Data Project](https://github.com/user-attachments/assets/269f522f-a952-4e87-8b79-adbcd8e53005)
 
@@ -162,7 +185,10 @@ Top performing product and regional breakdowns for Sales data.
 
 This dashboard visualize key customer segments,
 
-Cancellations and Subscription trends.
+Cancellations and Subscription trends for Customers data.
 
 ![Power Bi Customer Data Visualization](https://github.com/user-attachments/assets/ad86b3fd-f7ee-4318-b0d8-13b744665295)
+
+
+
 
