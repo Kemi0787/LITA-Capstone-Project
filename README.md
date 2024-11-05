@@ -31,18 +31,65 @@ The primary sources of Data used are data generated in the course of training or
 1. For  Data Cleaning
 2. For Data Analysis
 3. For Data Visualization
+
+### DATA CLEANING AND PREPARATION
+The process of cleaning and preparing data involves difference steps which include:
+- 	Data loading and inspection
+-  Handling missing variables
+- 	Data cleaning and formatting.
+
 The following are the expamples of Clean Sales and Customers Data with the applied steps.
-----
+
+---
+
 Clean sales data.
 
 ![Clean Sales Data](https://github.com/user-attachments/assets/dfbf6804-f76d-4bd0-99c2-7ddb9b54535a)
+
 ----
 Clean Customer data.
 
 ![Clean Customer Data](https://github.com/user-attachments/assets/bd8f85bb-93cb-4e53-83f1-f97811427b0a)
 
 
+### DATA EXPLORATION 
+Data Exploration involves the exploring of data used during the course of training
+*	Microsoft  Excel
+  
+ For Sales Data
+ 1. Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
 
+ 
+ ![Pivot Table for Sales Data](https://github.com/user-attachments/assets/1f7d3865-60eb-4f14-84cb-ce9d18cfd461)
+
+
+![Sales Data Pivot Table 2](https://github.com/user-attachments/assets/4a380d61-76e9-4b15-ac12-5926279e7c02)
+
+
+Products sold  on monthly basis for the year 2023 and 2024.
+
+![Sales Data On Monthly Basis](https://github.com/user-attachments/assets/7ab69a94-1b11-4a58-9bfe-e29c99b2a0cc)
+
+
+2. Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+
+
+![Average Sales per Product](https://github.com/user-attachments/assets/31aac6a0-732c-4420-8aac-304b09d6dad3)
+
+
+TOTAL REVENUE BY THE REGION	
+
+![image](https://github.com/user-attachments/assets/50a53c2f-ef71-4dc0-a87b-29c4611cd095)
+
+
+For Customer Data
+
+
+
+
+ ### DATA ANALYSIS
+ This is where we include some basic line codes or queries used during the analysis.
+ 
 
 
 
@@ -54,12 +101,7 @@ Clean Customer data.
 ### Overview: 
 This analyse the performance of each region  based on amount of product sold. 
 
-![Pivot Table for Sales Data](https://github.com/user-attachments/assets/1f7d3865-60eb-4f14-84cb-ce9d18cfd461)
 
-![Sales Data Pivot Table 2](https://github.com/user-attachments/assets/4a380d61-76e9-4b15-ac12-5926279e7c02)
-
-Products sold based on monthly basis for the year 2023 and 2024
-![Sales Data On Monthly Basis](https://github.com/user-attachments/assets/7ab69a94-1b11-4a58-9bfe-e29c99b2a0cc)
 
 
 
