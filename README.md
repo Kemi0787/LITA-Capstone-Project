@@ -16,7 +16,30 @@
 
 [DATA ANALYSIS](#data-analysis)
 
+[DATA VISUALISATION](#data-visualisation)
 
+ This project is to explain the Capstone Dataset for Sales data and Customer datas with the used of the following tools starting from,
+*	Microsoft  Excel
+*	SQL – Structure Query Language
+*	POWERBI-  Business Intelligence
+
+### DATA ANALYSIS SOURCES
+The primary sources of Data used are data generated in the course of training or through online source data e.g Google Data, Kaggle, e.t.c.
+
+### DATA ANALYSIS TOOLS
+- 	Microsoft Excel [Download Here](https://www.microsoft.com)
+1. For  Data Cleaning
+2. For Data Analysis
+3. For Data Visualization
+The following are the expamples of Clean Sales and Customers Data with the applied steps.
+----
+Clean sales data.
+
+![Clean Sales Data](https://github.com/user-attachments/assets/dfbf6804-f76d-4bd0-99c2-7ddb9b54535a)
+----
+Clean Customer data.
+
+![Clean Customer Data](https://github.com/user-attachments/assets/bd8f85bb-93cb-4e53-83f1-f97811427b0a)
 
 
 
