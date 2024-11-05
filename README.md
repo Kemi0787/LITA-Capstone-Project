@@ -147,16 +147,22 @@ SQL for Customer data.
 ![Customer Querry 3](https://github.com/user-attachments/assets/b8b7ef98-1f99-49ae-9174-df5e241e4d5d)
 
 
+### DATA VISUALISATION
 
+The following is the dashboard that visualize the insight found in SQL and Excel,
+The dashboard include;
 
+Sales overview
 
-
+Top performing product and regional breakdowns for Sales data.
 
 
 
 ![Power BI Sales Data Visualization](https://github.com/user-attachments/assets/07f1d168-fc49-49bd-b3a0-ce43c3e53f0d)
 
+This dashboard visualize key customer segments,
 
+Cancellations and Subscription trends.
 
 ![Power Bi Customer Data Visualization](https://github.com/user-attachments/assets/ad86b3fd-f7ee-4318-b0d8-13b744665295)
 
