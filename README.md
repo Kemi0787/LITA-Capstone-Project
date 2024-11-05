@@ -111,17 +111,18 @@ Questions.
 
 3.find the highest-selling product by total sales value.
 
-4. calculate total revenue per product.
+4.calculate total revenue per product.
 
-5. calculate monthly sales totals for the current year.
+5.calculate monthly sales totals for the current year.
  
-6. find the top 5 customers by total purchase amount.
+6.find the top 5 customers by total purchase amount.
  
-7. calculate the percentage of total sales contributed by each region.
+7.calculate the percentage of total sales contributed by each region.
  
-8. identify products with no sales in the last quarter.
+8.identify products with no sales in the last quarter.
+
    
-
+The SQL querry that answer the above questions are the following:
   
 ![SLQ Querry for Sales Data Project](https://github.com/user-attachments/assets/1da77c8d-cc19-4318-91bd-832435fdfc3e)
 
