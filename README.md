@@ -1,6 +1,32 @@
 # LITA-Capstone-Project
 
-# Project Description:
+### Project Description:Data Analysis Process
+---
+[DATA ANALYSIS SOURCES](#data-analysis-sources).
+
+
+[DATA ANALYSIS TOOLS](#data-analysis-tools)
+
+
+[DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
+
+
+[DATA EXPLORATION](#data-exploration) 
+
+
+[DATA ANALYSIS](#data-analysis)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Overview: 
 This analyse the performance of each region  based on amount of product sold. 
