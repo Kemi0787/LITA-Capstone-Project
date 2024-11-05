@@ -125,7 +125,6 @@ Questions.
 
    
 The SQL querry that answer the above questions are the following:
----
 
 
 ![SLQ Querry for Sales Data Project](https://github.com/user-attachments/assets/1da77c8d-cc19-4318-91bd-832435fdfc3e)
@@ -162,7 +161,7 @@ Questions
 
 
 The following are the answers to the above questions.
----
+
 
 ![SQLQuerry for Customer Data Project](https://github.com/user-attachments/assets/269f522f-a952-4e87-8b79-adbcd8e53005)
 
