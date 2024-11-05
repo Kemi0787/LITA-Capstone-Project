@@ -100,16 +100,27 @@ For Customer Data
 
  ### DATA ANALYSIS
  This is where we include some basic line codes or queries used during the analysis.
+ 
   SQL for Sales data.
+  
 Questions.
+
 1.retrieve the total sales for each product category.
+
 2.find the number of sales transactions in each region.
+
 3.find the highest-selling product by total sales value.
+
 4. calculate total revenue per product.
+
 5. calculate monthly sales totals for the current year.
+ 
 6. find the top 5 customers by total purchase amount.
+ 
 7. calculate the percentage of total sales contributed by each region.
+ 
 8. identify products with no sales in the last quarter.
+   
 
   
 ![SLQ Querry for Sales Data Project](https://github.com/user-attachments/assets/1da77c8d-cc19-4318-91bd-832435fdfc3e)
@@ -133,18 +144,6 @@ SQL for Customer data.
 
 
 ![Customer Querry 3](https://github.com/user-attachments/assets/b8b7ef98-1f99-49ae-9174-df5e241e4d5d)
-
-
-
-
-
-
-### Overview: 
-This analyse the performance of each region  based on amount of product sold. 
-
-
-
-
 
 
 
